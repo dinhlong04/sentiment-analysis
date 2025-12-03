@@ -38,7 +38,7 @@ The project implements a complete NLP pipeline from scratch:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis.git
+git clone https://github.com/dinhlong04/sentiment-analysis.git
 cd sentiment-analysis
 ```
 
