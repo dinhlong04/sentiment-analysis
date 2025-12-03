@@ -1,0 +1,15 @@
+# Python specifics
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Models (Do not commit large files)
+*.pkl
+*.json
+nltk_data/
+
+# Environment
+.env
+venv/
+.idea/
+.vscode/
